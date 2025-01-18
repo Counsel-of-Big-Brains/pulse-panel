@@ -1,7 +1,7 @@
 {
   "name": "pulse-panel",
   "private": true,
-  "version": "0.7.0",
+  "version": "0.8.0",
   "author": "Jared Meadows <meadowsjared@gmail.com>",
   "main": "src/electron/main/main.js",
   "description": "A soundboard app that looks nice too",
